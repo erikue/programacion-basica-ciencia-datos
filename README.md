@@ -53,7 +53,7 @@ Bienvenido al curso de **Programación Básica** diseñado para estudiantes de l
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/programacion-basica-ciencia-datos.git
+git clone https://github.com/erikue/programacion-basica-ciencia-datos.git
 
 # Navegar al directorio
 cd programacion-basica-ciencia-datos
